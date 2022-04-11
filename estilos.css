@@ -1,0 +1,47 @@
+H1{
+  font-family: 'Rubik Glitch', cursive;
+  font-size: 5em;
+
+}
+
+/* .container{
+  background-image: url("Imagenes/aficion.jpg");
+  background-size:cover;
+  background-position: center;
+} */
+
+.logo{
+  width: 13%;
+
+}
+
+.botonReset{
+  display:inline-block;
+  margin-left: 450px;
+}
+.ld{
+  width: 10%;
+}
+
+.foto{
+  width: 90%;
+}
+.aprobado{
+  text-align: left;
+  font-size: 3em;
+  color:green;
+  margin-top: 1em;
+}
+.suspenso{
+  text-align: left;
+  font-size: 3em;
+  color:red;
+  margin-top: 1em;
+  font-family: 'Rubik Glitch', cursive;
+}
+.noHasAprobado{
+  margin-top: 37em;
+}
+.color{
+  color:red;
+}
